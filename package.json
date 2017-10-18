@@ -1,0 +1,20 @@
+
+{
+  "name": "react-native-webview",
+  "version": "1.0.0",
+  "description": "React Native WebView Javascript Bridge",
+  "main": "webview-index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Proscom",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+
+  }
+}
